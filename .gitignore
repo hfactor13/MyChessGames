@@ -1,3 +1,5 @@
+.vscode
+/.ipynb_checkpoints
 .DS_Store
 chess_data_export_private.ipynb
 /data
