@@ -108,7 +108,7 @@ ncurses = { version = "==6.5", build = "h7bae524_1" }
 nest-asyncio = { version = "==1.6.0", build = "pyhd8ed1ab_0" }
 notebook = { version = "==6.5.7", build = "pyha770c72_0" }
 notebook-shim = { version = "==0.2.4", build = "pyhd8ed1ab_0" }
-numpy = { version = "==2.1.1", build = "py310hcaf17df_0" }
+numpy = "*"
 openjpeg = { version = "==2.5.2", build = "h9f1df11_0" }
 openssl = { version = "==3.5.0", build = "h81ee809_1" }
 overrides = { version = "==7.7.0", build = "pyhd8ed1ab_0" }
