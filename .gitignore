@@ -3,3 +3,6 @@
 .DS_Store
 chess_data_export_private.ipynb
 /data
+# pixi environments
+.pixi/*
+!.pixi/config.toml
